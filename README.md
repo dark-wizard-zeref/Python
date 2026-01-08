@@ -3,7 +3,7 @@
 This repository contains my Python programming codes and notes created while learning and practicing Python fundamentals.
 
 ## Contents
-- Basic syntax, variables, datastructures, etc. 
+- basics: Basic syntax, variables, datastructures, etc. 
 
 ## Purpose
 - Personal reference for revision  
