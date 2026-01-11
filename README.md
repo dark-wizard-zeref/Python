@@ -5,6 +5,8 @@ This repository contains my Python programming codes and notes created while lea
 ## Contents
 - basics: Basic syntax, variables, datastructures, etc. 
 - advance : Topics like - lambda functions, comprehensions, generators, etc.
+- Exceptions-handling: Code related to exception handling in Python
+- Mini-Projects: Small projects using core Python concepts
 
 ## Purpose
 - Personal reference for revision  
